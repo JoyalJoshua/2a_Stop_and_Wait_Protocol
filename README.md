@@ -1,6 +1,7 @@
 ```
 name: Joyal Joshua
 reg no: 212225040162
+
 ```
 # 2a_Stop_and_Wait_Protocol
 ## AIM 
@@ -38,6 +39,10 @@ while True:
 
 
 ```
+
+
+
+
 ### client.py:
 ```
 
